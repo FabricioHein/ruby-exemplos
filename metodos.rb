@@ -1,4 +1,4 @@
-cle
+class
 def hello name
     puts "Olá '#{name}'"
 end
